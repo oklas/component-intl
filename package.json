@@ -1,0 +1,31 @@
+{
+  "name": "component-intl",
+  "version": "0.1.0",
+  "description": "Component Approach to Internationalization",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/oklas/component-intl.git"
+  },
+  "keywords": [
+    "intl",
+    "internationalization",
+    "i18n",
+    "webpack",
+    "merge",
+    "join",
+    "component"
+  ],
+  "author": "Serguei Okladnikov <oklaspec@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oklas/component-intl/issues"
+  },
+  "homepage": "https://github.com/oklas/component-intl",
+  "scripts": {
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
