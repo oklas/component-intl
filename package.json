@@ -11,6 +11,8 @@
     "intl",
     "internationalization",
     "i18n",
+    "locale",
+    "localization",
     "webpack",
     "merge",
     "join",
