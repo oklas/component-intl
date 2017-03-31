@@ -13,10 +13,12 @@
     "i18n",
     "locale",
     "localization",
+    "component",
     "webpack",
     "merge",
     "join",
-    "component"
+    "plugin",
+    "loader"
   ],
   "author": "Serguei Okladnikov <oklaspec@gmail.com>",
   "license": "MIT",
